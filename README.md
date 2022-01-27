@@ -9,7 +9,7 @@ This repository contains all the data, R/python scripts (in markdown formats) fo
 # Navigate through the files
 | Folder/file name      | Description |
 | ----------- | ----------- |
-| data      | Contains all the data related to the study |
-| markdownPmake   | Contains all the R scripts for making the R markdown file for R-related analyses|
-| scripts | Contains all the R and python scripts (in RMarkdown and Jupyter notebook formats) used in the analysis of the data |
+| [data](https://github.com/jbquijano/dh-tol/tree/main/data) | Contains all the data related to the study |
+| [markdown_make](https://github.com/jbquijano/dh-tol/tree/main/markdown_make) | Contains all the R scripts for making the R markdown file for R-related analyses|
+| [scripts](https://github.com/jbquijano/dh-tol/tree/main/scripts) | Contains all the R and python scripts (in RMarkdown and Jupyter notebook formats) used in the analysis of the data |
 | README.md | The README file for this repo|
