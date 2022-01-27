@@ -1,0 +1,14 @@
+id	station	environment	cluster	environment1	shannon_entropy
+#q2:types	categorical	categorical	categorical	categorical	numeric
+DH16	MB1	SW	IB	Free-living	4.36309305182286
+DH2	MB2	PP	IB	Particle-attached	2.82968262806445
+DH3	MB2	PE	IB	Particle-attached	4.00913472792165
+DH15	MB2	SW	IB	Free-living	4.42524825629074
+DH6	MB3	PP	IB	Particle-attached	2.96976614349255
+DH14	MB3	SW	IB	Free-living	4.11448308915574
+DH8	MB4	PE	OB	Particle-attached	4.51549042930547
+DH9	MB4	PE	OB	Particle-attached	4.98295832530047
+DH13	MB4	SW	OB	Free-living	3.50601300112964
+DH10	MB5	PP	OB	Particle-attached	3.82519086785088
+DH11	MB5	PE	OB	Particle-attached	3.50015041010397
+DH12	MB5	SW	OB	Free-living	2.52392858247014

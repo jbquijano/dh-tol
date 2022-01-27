@@ -1,0 +1,371 @@
+asvid,DH10,DH11,DH12,DH13,DH14,DH15,DH16,DH2,DH3,DH6,DH8,DH9,taxonomy
+0e09f2ae25f3479b7c330c1fa2f4e314,0,0,0,0,0,3,0,0,0,0,0,0,d__Eukaryota; k__Incertae_Sedis; p__Incertae_Sedis; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Telonema; s__uncultured_eukaryote
+205093af0f3a98440c844b93d594b0f7,0,0,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+3babbd9ad40309f90525d788a80853fc,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Incertae_Sedis; p__Incertae_Sedis; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Incertae_Sedis; s__Planomonas_micra
+39b9936643fdf57cf86e805347097bf3,1,0,0,0,0,0,0,0,0,6,2,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+c441396df5844fbacad47a011d93077f,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+b000cc9ed00c7504702f481a025b7020,3,0,0,0,0,0,0,0,2,0,0,13,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+c8373ce62bf5d3c7ad55d35c9cb7ef8d,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspis
+0eec7239478478d9c958ab9d155922c3,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+747e10bba0dad51c1e8ea39e65aa9ba6,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_choctawhatcheeana
+89c3ae31a971a30455ef165d273f3936,0,0,0,0,0,0,0,0,0,0,0,5,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+274a769ae851e923918caadbb0513757,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium; s__Zoothamnium_sp.
+77d56aee01cc47a586ab6041bf1f80ef,0,0,0,0,0,0,6,0,0,0,0,17,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+69ab5657c1cac75e9efaa1119ae23f77,0,0,9,12,34,55,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+4db69fcbb017031547f72e5a6882fa60,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+0a26dd935836b7b3efc1044ab5f6b932,0,0,0,4,8,7,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes; g__Peronosporomycetes; s__Haliphthoros_sp.
+07fcf21a1b098c645ce79927cc9c0c88,0,0,0,0,0,0,0,0,0,0,8,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoecidae; s__Salpingoeca_kvevrii
+a3e91e53f430b464bf8bc9890acaa335,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Dinophysiales; f__Dinophysiales; g__Sinophysis; s__uncultured_eukaryote
+7fc4a2f635eeda65ca9910f3b21bf7f5,0,0,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+c1ef3f39bd0d43bbc2c7f79ecfd6e90c,0,0,1,2,6,2,1,0,1,0,0,2,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+141b11aec300bbf59535f3f8023c8a46,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured
+32b636fc65b4beac2803ae8aa818d996,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Euplotia; g__Diophrys; s__Diophrys_parappendiculata
+e9667848dabad546711472f65023e9d0,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Haptophyta; p__Prymnesiophyceae; c__Prymnesiophyceae; o__Prymnesiophyceae; f__Prymnesiophyceae; g__Phaeocystis; s__Phaeocystis_globosa
+4b0c27fe1b55a6194658010a3a991997,0,0,0,0,0,0,0,0,0,0,2,2,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+db43ce7c610f0d9a1db2078ed8028d35,0,0,0,0,8,0,4,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Duboscquella
+0d2632eb54f3c5b34c03cee5ac2d842b,0,0,0,0,0,0,0,0,8,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnopsis; s__Zoothamnium_sp.
+3ea26f6ed9942ba9cea4d971a4896c9b,0,0,15,79,5,50,107,3,1,0,0,16,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+2edb025a9107d8bf99149f219f25fa7e,0,0,0,0,1,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II; s__uncultured_eukaryote
+1712b2abd873215c51c97521b2a7aa03,0,6,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales
+dac7d2da2da052f8c7826d272f953b1e,5,20,0,0,0,0,0,0,0,3,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria
+2642ddec54018194645d005658accaab,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Euplotia; g__Aspidisca; s__uncultured_marine
+65e62fc1e614acf41e1705ae3a82016a,0,0,0,0,0,0,0,0,0,0,0,9,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__IN2411; g__IN2411; s__uncultured_ciliate
+d1f8fe6e346dc1374ff99fcf2b987d14,0,0,0,11,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+7ff2e2e005bd7aabc0d6e7f65bef4c1b,0,0,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Vampyrellidae; o__Vampyrellidae; f__Vampyrellidae; g__uncultured; s__Hyalodiscus_sp.
+0903022f7ac9b709efdc3f4592c1378a,0,0,0,0,0,5,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+fec77e6c2265d86ea13d17078fe8b54d,48,43,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+0ffcd375e9a3c0a7be9d36ef66830f4c,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+f7cb2806b8c6faaf4aaa7fec1dae0d98,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea
+1555a1d4ae5f456b4bb8d1511df2b43a,0,0,0,0,0,0,0,0,9,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__Vaginicola_crystallina
+c9347ba633570ad48614f80f741522e2,0,0,1,8,18,4,6,0,0,0,0,2,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+53ccd55dd796f4db02a092fedbb03db1,0,2,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Prostomatea; g__Cryptocaryon
+b31472d5577d175188dca783a5355a69,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae
+e88c653ad064f0bfb19ea72933e89cbe,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_Skeletonema
+77594ecd6ec10f0595520a9ea177f6c4,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Aplanochytrium_sp.
+2a9a5e5ca2870c18ae4dec799188a984,0,0,1,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Haplozoon; s__uncultured_eukaryote
+70a8a4c06ca50cb83cb4e923b12929e9,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+5db3451184ce53177a460ab6dd5c8aaf,0,0,0,0,0,0,0,0,4,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+fd8626aa89350ad085a7a47b1e49857c,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+2724ba8a9a2dfa8ac51716ad2c21c5d5,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+7eadcc1f8419c1d0ac14bbe3647fd5e7,0,0,0,0,0,0,0,12,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+3307a8fb71ca7b84dfe473c2e5e255f2,0,10,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrophyceae; f__Chlorodendrophyceae; g__Chlorodendrophyceae; s__Tetraselmis_sp.
+bccbe0b146142f49167769d091779716,0,0,0,0,0,0,0,0,12,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+333f8feb57ebdcade40706a28d610c7b,0,0,0,4,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+89887b78633dac798c8001c78b4e89de,0,0,0,5,15,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Azadinium; s__uncultured_marine
+69dba3c21f8ec6181edc2e087f983a70,0,0,0,0,0,0,0,0,5,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Pseudovorticella
+fd410bff66ebc827664d7cf84af316b8,0,0,0,0,0,0,0,0,4,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+2e1779e791e4967261a572a2d8408adf,1,0,0,0,0,0,0,0,0,0,0,3,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Trochilia; s__Trochilia_petrani
+fe4936b104f208a9964147781f0bf408,0,0,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium; s__Zoothamnium_duplicatum
+9772b0e527c77a3ee82d4b8de414b06f,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Imbricatea; o__Imbricatea; f__Thaumatomonadida; g__D2P04A09; s__uncultured_marine
+2f9b0886b40e1dda2f0391f4d3afc506,0,0,4,3,19,18,20,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+ba4c10c2970770059aca7f6b8b8f7740,0,0,0,0,0,0,0,0,11,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__uncultured_eukaryote
+2e38ad406954960793b88640ac007716,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+3e165c8e7b67f7d65933b7d10a59162f,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Hypotrichia; g__Holosticha; s__Holosticha_heterofoissneri
+c3afdbd12f270d76668fafa1b2b01d96,2,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes
+e37b8ca1835402722ba4afcaa0b981f8,0,0,1,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+d416d9ffc28827af07c6778372f30cc1,0,0,12,0,0,4,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade
+57bd2e2109390aaa2ddeb58bbe3b4a6f,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota
+30f3ab20f2993a0dd92a582c511f84e5,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+ad2857a01981cf73e82784951dc28481,0,0,0,0,0,22,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+30c640f4a3734c59f2119f8e3809e417,0,7,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+3e0b7128361157f23b2a5ce95220d96b,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota
+01e4e2dfa3930538339f6a9342821669,0,0,0,0,3,0,2,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Duboscquella
+c45f9bcf2c4a5362137c09024dbfb29c,0,0,0,0,2,0,2,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Ochrophyta; c__Eustigmatophyceae; o__Eustigmatales; f__Eustigmatales; g__phytoplankton; s__phytoplankton_environmental
+83e6097776f827dc509f42896fb16b03,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+bc1492bc263f48040edfa6f4555de642,3,3,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+1bd8ff8fd5938a4a99f08c8414fd732d,0,0,0,0,0,0,0,0,0,0,5,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoecidae; s__Salpingoeca_kvevrii
+9db6700820f364b09879702fcefa7f15,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+0330eafda3d83e52debfbf726f022044,0,0,0,0,0,0,0,0,4,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Pseudovorticella; s__Pseudovorticella_sp.
+b3e101137e8f0357c3e355ebab2c6c58,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+c75d3f9cb79f9be33c0aaf98506fd940,0,0,2,0,5,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+782595698a2a70e94b80f27afa478dcc,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+e948cc89a10c62e6528bce152a1c5817,3,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales; g__Desmodesmus; s__Desmodesmus_sp.
+af06968066fc25035e7ad69aeee4704b,20,25,0,0,0,0,0,12,0,6,0,16,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+49ce83a33d73b5fd8696d74fc54452b2,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+6a34410b28a560cf53d629defd516abe,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Pseudovorticella
+dc539e8ac88e04827e7de42f4845f801,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__Vaginicola_crystallina
+9d49747c86eff70863d3a243cb31940c,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Labyrinthuloides_minuta
+f121917158421af43507bb106b19b58e,0,0,0,0,0,0,0,0,0,2,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+00ddb3f10f6181eec9097c6b364523a4,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__Salpingoeca_urceolata
+32e9bacff542f61ac75743be97d39253,0,0,0,0,0,0,0,0,0,0,5,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+b440ee337501df49dcd59e1a06ed31ab,0,0,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__uncultured_eukaryote
+460e1e3ccba4726cf303abd9b10fa6b2,0,0,0,0,0,0,0,0,0,0,0,18,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Hypotrichia; g__Holosticha; s__uncultured_marine
+d99fb819e05be433d71010b2871b67b2,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+1089c2970c6c669ddccedae95c6d669d,0,0,2,16,7,0,1,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea
+61adba9b3f001ccae30af9ea7cf152c0,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema; s__Skeletonema_menzellii
+b1bb0f23029cd034c1b68f3fd5b1c442,0,0,0,0,0,0,0,3,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Aegyriana; s__Aegyriana_cf.
+e41263df0eccfd82f0b2645f83c48b15,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__uncultured; s__Thraustochytriidae_sp.
+5658840749b9a89c686367ea7a6062f0,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__Protoperidinium_monovelum
+f7e191bae4c5e6ae50b23147f30e9799,0,0,0,0,4,3,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__Thalassiosira_lundiana
+6a5c993becb98374788194aa0535528b,12,0,0,0,0,0,0,2,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Protoperidinium; s__Protoperidinium_monovelum
+fc2fe0e5369050cf1f280d51c2becf43,0,0,0,0,0,3,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+6975d730b1b3b30e8186fb7bb653fd38,0,0,0,0,0,0,0,7,0,3,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+617ea6a7f0574a1d6d2f8aeee10ac682,0,0,0,0,0,0,0,0,7,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__metagenome
+393c128e0e6097f42b7d549e2f1ff5e2,14,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrophyceae; f__Chlorodendrophyceae; g__Chlorodendrophyceae; s__Tetraselmis_sp.
+c2e75204c31434539b373562bcf6ba04,0,0,0,0,0,0,5,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+c91653f1e9753ac28019082c5cb28b16,0,0,0,0,0,0,0,0,51,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+62648210a981166768356b5c55931e0a,11,2,0,0,0,0,0,0,0,10,4,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Ephelota; s__Ephelota_gigantea
+7bbc7b0fa8b67ff122967c20fef82638,0,0,0,0,0,0,3,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__uncultured_prasinophyte
+407e9c68a0d738c45fdc2861aeeb7439,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae
+92c9f1f5ea1b5047166db7619eff7aac,282,299,0,0,0,1,0,2,1,4,23,51,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae
+d70916ef7d399047e497c38a9944fa2b,0,0,8,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+7886429972e0d544041ccd366fbac743,0,0,0,7,12,6,3,0,2,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Fragilidium; s__Fragilidium_sp.
+5320eb596a3befa65542b9e8d3d96ca3,0,0,0,0,0,6,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I
+db974453d70a7f21d25c7c35e160c3b0,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__uncultured; s__uncultured_labyrinthulid
+7ca83a977d42ffdbe5be4ed6e05b1710,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyrophacus; s__Pyrophacus_steinii
+38ffbf0dde62044ed5a1a4e3fa907aaa,0,0,0,0,0,0,0,4,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Amphidinium; s__Amphidinium_sp.
+c0b10dd7345a0aa92d1bc5ebe433aaa0,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Coscinodiscus; s__Coscinodiscus_sp.
+e60771ca6934c39e053a9f4fca541f96,0,0,0,1,0,3,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Haplozoon; s__uncultured_eukaryote
+5fee4b4715710ecf5138b86568062251,0,0,8,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+c7b0ba1fe8c1bda826f6bd6d080719f1,0,0,0,5,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Alexandrium
+f00f5dd7712a837ecffe7679479a6949,0,0,0,0,0,4,0,0,0,0,0,0,d__Eukaryota; k__Haptophyta; p__Prymnesiophyceae; c__Prymnesiophyceae; o__Prymnesiales; f__Prymnesiales; g__Chrysochromulina
+96d1717686feb87ca44162f92c0ce809,27,26,0,0,0,0,0,271,0,27,0,12,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+d916456eae61d00ed871269ea9560e9a,0,0,420,65,0,107,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+ce1e106cc1a29267b7da645180ea151c,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Arcocellulus; s__Arcocellulus_cornucervis
+13005f1e393070e2e3348c8d2a03235b,2,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Freshwater_Choanoflagellates_2; s__uncultured_freshwater
+7f2f6721535775dbb63f9d052c1c448e,0,0,0,0,0,0,0,0,0,0,15,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Labyrinthuloides_minuta
+db26f2d2ef4dbe82cdc9f15cf4ed7656,6,11,0,0,0,0,1,0,0,4,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales; g__Desmodesmus; s__Desmodesmus_sp.
+f619e6e5148758027465b4dc21ba6e75,0,0,0,0,0,43,13,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+774df8ef59cd7e566cffe9a6ee0ba5f0,0,0,0,0,0,3,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+aa5b813f4d4a2095bab8ff4893443df9,0,0,0,0,2,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__Thalassiosira_lundiana
+5d49b9fd38cde9a0e720e6355e854d09,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+90460be0248b731839e112c59bd5e46f,0,0,0,1,0,3,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Rhizosolenids; g__Leptocylindrus; s__Leptocylindrus_danicus
+f6f975f47d558f5dc1955250b2f3b850,0,0,0,0,0,9,5,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+e8ecb5d13a7012784c93ea354c04708b,0,0,0,0,0,0,0,0,0,0,41,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoecidae; s__Salpingoeca_kvevrii
+1ab8508aebccf35c07dbc62052d64b0c,0,0,0,0,0,0,7,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrales; f__Chlorodendrales; g__Tetraselmis; s__Tetraselmis_sp.
+f23044383e0dd3c42d711935c43a1fc0,0,0,0,0,0,0,0,0,0,0,5,2,d__Eukaryota
+373cd8326435c0a4655b5675693209f4,0,0,0,0,0,18,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_marine
+6591440218319f557af078eddd841bb8,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__Salpingoeca_urceolata
+89e1b4f26378253820720c1379c81d95,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Prostomatea; g__Placus; s__Placus_salinus
+e192066dcd92b845c346c79a620b9de1,0,1,0,0,0,0,0,0,0,6,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Paracineta; s__Paracineta_limbata
+e455fa580fa4eec5dc9ac70ddc725d70,0,0,9,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+81fa3f9f8dc289cf923491b179c669c7,0,0,6,9,17,54,3,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+e96be47e1191f15bffff1a09a6ec1060,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema
+f6fb4f81c84ca553bc95296aa4d4f85b,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__Vaginicola_crystallina
+ade5a12c938b9e4f4a564f542a39447b,0,0,0,0,0,0,0,0,0,4,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__uncultured_eukaryote
+b4a61a3bd61a9a6b2e287e9c62a91350,0,0,0,0,6,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus; s__uncultured_marine
+d89efe226e406af307933e19b1fae7a8,0,0,0,0,0,0,0,0,0,0,3,0,d__Eukaryota; k__Incertae_Sedis; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Amastigomonas; s__uncultured_Apusomonadidae
+e01941aab8c52c028a0d71951f4589f4,0,0,0,0,0,0,0,0,0,0,32,5,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+e90a55cbe3a0b094082db4caa4e0a4d6,0,0,0,10,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyrophacus; s__Pyrophacus_steinii
+c31b4353e13c0947e3a0ac77c6f41fc2,0,8,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__uncultured_eukaryote
+74b376842c8b9a3b17db3231c18e7d63,0,0,0,0,14,0,1,2,1,0,0,6,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_elegans
+64f7d6a29c8f6eb4342b7c350e4487b1,0,0,0,0,0,0,4,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_choctawhatcheeana
+0689d3fd1f6311ba526dd292981c907f,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+b1432eec67662029d64481a6d88c64cf,0,0,0,0,0,0,0,0,6,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__Thalassiosira_concaviuscula
+a9b2e8e64061aa3b25d180ea673adb44,0,0,0,0,0,0,0,0,0,0,0,7,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+6946b1b23b8616800ca91e283a39c79b,5,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+f075ac0f3bbf79a2ea783557cb0c1f15,0,0,0,0,0,0,0,0,0,0,0,15,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_flava
+57607a9fb3b64a7511c446ff0b15eaba,0,0,0,0,0,0,0,0,0,2,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Paracineta; s__Paracineta_limbata
+3422bf197a306bb7d1da88dc0715fecd,12,7,0,0,3,0,21,0,0,0,0,5,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Chromerida; o__Chromerida; f__Chromerida; g__Chromera; s__uncultured_freshwater
+66f147b0f8bd78f4dc7b6c7aa5ed324f,0,0,0,0,0,3,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+e528f34b76d7ebf93b8f85f01c09508f,0,0,0,0,0,0,0,0,13,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+f15e79320d269bcf9f2af42a59433740,0,0,0,0,0,0,0,0,0,0,2,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Freshwater_Choanoflagellates_2; s__uncultured_freshwater
+c6bb4ee79dc297fc5229eb867160af16,0,0,1,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Retaria; c__RAD_B; o__RAD_B; f__RAD_B; g__RAD_B; s__uncultured_Polycystinea
+9015759a25c8c317ba7dde9cf74c0c3f,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+7246a5b0571b36cde7d53f4407a8742d,0,0,0,0,0,0,3,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_meneghiniana
+34aac13867b7166293094f3600d07723,0,0,0,0,0,0,0,0,0,0,4,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+b6448249c42c0ac6c56dce1fc451394e,0,0,0,0,1,0,0,0,0,0,0,0,d__Eukaryota
+662c7a96323dcc35627d45b824922886,0,0,1,0,0,0,0,0,0,0,0,0,d__Eukaryota
+119898241c1fc8795c737af68fab06df,0,0,0,0,1,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodinium_clade
+e1d5afebdf6c9c4eef2f4dc2efeccbb8,0,0,0,0,0,0,0,0,0,0,0,6,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Trochilia; s__Trochilia_petrani
+355044ee2219eb7d328776f20efc6ca6,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+d799a0fbe75284b9152abe5c296cec32,0,0,0,0,0,0,0,0,6,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__Conticribra_weissflogii
+43f615b9874602634053e79c0f088309,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae
+e35dd850a92de36318f3a02c715feee7,0,0,0,0,0,0,0,0,3,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Ephelota; s__Ephelota_gigantea
+7c9b94d5f4e7fa6169e26c38eba619e1,0,0,0,0,2,0,0,0,0,0,0,0,d__Eukaryota
+8fb2e18c29173a8900661c7fafade4e7,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Incertae_Sedis; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Amastigomonas; s__uncultured_Apusomonadidae
+a6e3ef75c7dd9c496c0a8663c1e90c4f,0,0,0,0,0,0,0,3,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Labyrinthuloides_minuta
+04ade88fa97403245eece8405e2797b7,0,0,0,0,13,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+1b86434bb85d53048e054e1c849e963a,0,0,0,0,0,0,0,0,0,0,0,3,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+098e7444e49213a15cb3ebd3a88d618f,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes
+25810fe2a547ef3419635350d1b18866,0,0,0,0,0,0,0,0,0,0,2,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Trebouxiophyceae; o__Trebouxiophyceae; f__Trebouxiophyceae; g__Trebouxiophyceae; s__uncultured_Nannochloris
+fb61ab15c5015d2a0a0732d90d6e96bf,2,0,0,0,5,4,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+a59ffa8c780c6bfa952dd4f937be0322,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+085062f516e41ea17a86199a8a0a7ebe,0,0,2,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+57142376da511a8fd87d75cc0a364866,0,0,0,0,0,0,0,0,14,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+2b0444c4303c5dee59fc3e8d7a2b107c,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros
+005101b857a688f768d1552fa8ec9ca4,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__Vaginicola_sp.
+2c294ef86b0f75d7482cd46770d34dff,0,11,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrophyceae; f__Chlorodendrophyceae; g__Chlorodendrophyceae; s__Tetraselmis_sp.
+d7c34a1a3c89a295800a9528b9c9ee60,0,0,1,4,6,6,0,0,0,0,0,0,d__Eukaryota; k__Alveolata
+e55515254efbeedc0d54259711d122a8,0,0,0,0,0,13,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Pelagodinium; s__uncultured_eukaryote
+c9ce1a6f307df948f5809793398f2384,0,0,0,3,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_alveolate
+5edc6cc4b70930ebe49c1156c3466f6c,0,0,0,1,8,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Gonyaulax; s__Spiniferites_belerius
+b6caedbfd6246d1155a5af78ae58c7b1,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata
+f6bb5067de008a02599bb85ab5cdec85,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Stramenopiles; p__Bicosoecida; c__Bicosoecida; o__Bicosoecida; f__Bicosoecida; g__Bicosoeca; s__uncultured_stramenopile
+fd114915d26a44de567044394cc247a7,3,4,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+de572034205fdcea02857d763165d8dc,0,0,0,2,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Ventrifissuridae; g__Ventrifissuridae; s__uncultured_Cercozoa
+b68b4eddef12779cc69b9a533880f05c,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+0ff02f62d83becf76114ff7118ade98c,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria
+c0f66014dac93576a6948fa3c944821d,9,0,0,0,0,0,0,0,0,47,31,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+5394339b976be3845c08bbb6a2529ec1,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrophyceae; f__Chlorodendrophyceae; g__Chlorodendrophyceae; s__Tetraselmis_sp.
+30861190b658c7d9ad4bb7033eec3505,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Trochilia; s__Trochilia_petrani
+97b81097eeeab8a1d4ae44bbd5781455,0,2,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Thecofilosea; f__Thecofilosea; g__uncultured; s__uncultured_Rhizaria
+f23a6f1f753982db56df7021f1c07b89,0,0,9,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+a2842fbc5ffd271b5b0a0edcee80f1ec,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Labyrinthuloides_minuta
+e5c489f89ffde0cecd28d3e6ebc496e9,0,0,0,0,0,0,0,0,3,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema
+d648a83e667dae183890a9df282300e1,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniphycidae; f__Thoracosphaeraceae; g__Oodinium; s__eukaryote_clone
+a7477c8aeb023b2ee31d0ea0fdf06f8f,0,0,0,6,4,0,3,0,0,0,0,4,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+f93a558858215e8e5837c1d10a29a4c7,0,0,0,0,3,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_II; g__Syndiniales_Group_II
+1b22b10fb4affecb6f707a8db2557faf,23,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae
+2d92bead6e3dca8fd43e8cf80e7f16e3,0,0,0,0,10,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Trebouxiophyceae; o__Incertae_Sedis; f__Incertae_Sedis; g__Picochlorum; s__Picochlorum_maculatum
+6827cb32417f740674b51c9a7edc892e,0,0,0,0,0,0,0,0,3,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Paracineta; s__Paracineta_limbata
+0bd90fec261a41aff1601a8ffa209634,0,0,0,0,0,0,0,0,255,0,0,2,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnopsis; s__Zoothamnium_sp.
+36a57cd59373580e7849f52914d30333,2,2,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes; g__Peronosporomycetes; s__Haliphthoros_sp.
+da4389547248bcbd9dd631f65c324867,0,0,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_eukaryote
+0c3e5c89684ec38645bcd9f0352716f4,34,19,0,0,46,0,4,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniphycidae; f__Thoracosphaeraceae; g__Thoracosphaeraceae; s__uncultured_eukaryote
+443653e7d205efbbf6bcd17cc4711da1,0,0,0,0,0,0,3,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2; s__uncultured_marine
+fb0045a8d4c2dad8543c7eae27ea4bbc,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Choreotrichia; g__Eutintinnus
+504e75e32f5283ca2504cb2381e15aea,0,0,0,7,22,9,1,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+f858ee3f00a03b1d316e1c266125262b,0,0,0,0,0,0,0,0,4,1,13,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Navicula; s__Naviculales_sp.
+f45c8a8c8f859726de51fd076364282e,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae
+4f8d64541e7698774a8f8aa489158870,0,0,0,0,0,0,0,4,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyrocystis
+f09f6c5d47896b27dbc964f3a32386f4,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+023a6801f4e2472f9a81b4ff1b510feb,0,0,0,5,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+8bcf5ff7023a86581ce0a9c27237021e,0,0,0,0,0,0,0,0,0,0,0,19,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+98f4e84fa8cebddcd03e324957c229d5,0,0,0,5,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyrophacus; s__Pyrophacus_steinii
+066dae3e0dd23d582f2c66812b37823d,0,0,0,0,0,0,0,0,0,0,0,1,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Cercozoa; o__Cercozoa; f__Cercozoa; g__Cercozoa; s__uncultured_eukaryote
+332d9f67d928b26676bb33cb1143c23c,0,0,0,0,0,6,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+001960564727de585a54ee73e741372e,0,0,0,0,2,6,0,0,0,0,0,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida
+3c392468df9b6d797483d81d28d90f9b,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+50941b4859c31409d29ea03e0f52fa6b,0,3,0,0,0,0,12,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__Karlodinium_veneficum
+03ec7eaf77473b32863db9e185e83abb,0,4,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+876700b6151a00f22230fde138a2e2c6,4,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+77188d225a4857849481f168296e0257,0,0,0,0,0,0,5,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+7242f7c7d4e24fef712070e07e64fc12,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Cylindrotheca; s__Cylindrotheca_closterium
+54c419ea116e33bab64279da210845c7,0,0,0,0,0,0,0,0,0,0,0,5,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_stramenopile
+15100f398fe621c846f3ef62e3d11d62,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinoflagellata; o__Noctilucales; f__Noctilucales; g__Noctilucales; s__uncultured_eukaryote
+f138216cb4508252480c4056d0b66a24,0,0,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema
+65a78a7066381d87ce0572d2ba464969,0,0,0,0,0,0,0,0,8,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+3d9be84e00ee3016c9bc422e2eae6f42,0,2,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Chromerida; o__Chromerida; f__Chromerida; g__Chromera; s__uncultured_freshwater
+5ef3f90fd13101a6acbe997e0e0efe2f,0,0,0,4,10,0,12,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata
+10242b359297d1d2a99f3b861bff2a3c,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+f5e57e1bca5566dc7475c23b11cb420b,0,0,0,0,0,5,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Duboscquella
+74b523090478fb0b94120f4801a5bb12,0,0,0,0,0,0,0,0,0,0,0,101,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Freshwater_Choanoflagellates_2; s__uncultured_freshwater
+945fddbdd3b54300bf1df0b2eca1eb8d,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+f9210d30aed13702462edcb6fe236ae5,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Oligotrichia; g__Spirotontonia; s__uncultured_marine
+45d6b1bc792d00a5f5345dcfd2407434,0,0,0,0,0,0,0,0,0,5,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+bd483c1137fe64cb6fb42b3b69358ed8,0,0,0,9,28,14,1,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+3c83dddca374ed3f7070f2e40d1e1065,0,0,0,5,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Suessiaceae; g__Pelagodinium
+5aa09e2f629f5340f5d847c778bbc5fb,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Prostomatea; g__Cryptocaryon; s__uncultured_eukaryote
+2eb1276556471f576a021fab92fd5bef,0,0,1,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+cdc3d3c39edbae60168b9ba452788c0f,67,6,0,0,0,0,0,172,0,230,107,5,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+a4ae860bec75303c3bccace664f2c0c1,0,0,0,0,0,0,3,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus
+47c1f842f884a88c2ae9991b0fcd91d3,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola
+3c2ae3bb349ed1b928558a24598ed328,0,0,0,0,5,6,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata
+20338c4b296e29dc5bfb2d9cd8b58d93,0,0,2,6,6,0,31,8,7,0,16,51,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_Skeletonema
+0fe273d70103df6099a281bd18d6462c,0,0,0,0,0,0,0,0,3,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__metagenome
+64851bffb2d50926dfb0eee64d42cb91,0,0,0,3,10,0,173,0,2,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_choctawhatcheeana
+3a1f340dc421d85f7fb3d50c64c0b6d0,0,0,0,0,0,0,0,0,6,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+881ff26b9f32ea898bee5b3292aca782,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Ventrifissuridae; g__Ventrifissuridae; s__uncultured_Cercozoa
+7ba4dd2aa53e6c8f70b8bbdf85dd357e,0,0,1,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Cryptophyceae; p__Kathablepharidae; c__Kathablepharidae; o__Kathablepharidae; f__Kathablepharidae; g__Leucocryptos; s__Leucocryptos_marina
+0548a2e5fac4131eef55a9a288cc812e,0,0,5,41,23,66,22,3,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales; g__Duboscquella; s__uncultured_eukaryote
+382c72a5d3f07306dcb4f3f790ad6427,0,0,0,0,0,0,0,0,0,0,2,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria
+ab8ed41503ca57f4f4ef6bffc01d9de4,0,0,0,0,0,0,0,0,0,0,8,2,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+b636525b12a7c4719952cd525e01a88e,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Nitzschia
+abb7caea071145931bff07c9ebd301a9,0,0,0,0,0,0,3,0,0,0,0,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoeca; s__uncultured_eukaryote
+8e2217a2687bef063579a4dac4aca874,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+17afb41e6dcc624c0d1994fa9b3badd8,0,0,0,4,0,0,3,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Ventrifissuridae; g__Ventrifissuridae; s__uncultured_Cercozoa
+daaa2cf58daed91194edbe344b798e7e,17,22,0,0,0,0,0,11,0,1,2,22,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+4faaea8df85cea3304f7d15080bbd8a5,0,0,0,0,0,0,13,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_stramenopile
+e245e9cd5b48ec4958315ea17d5641bf,0,0,0,0,0,0,0,0,0,0,0,6,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Litostomatea; f__Haptoria; g__Chaenea; s__Chaenea_vorax
+2201f1d1646baecbb4327b87f152b51a,0,2,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes
+5edd3aee59fbb3b906655a9a7d16dc49,0,0,0,0,3,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Gonyaulax
+377bfe1559f52a15105b56b0f9132c9e,0,0,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_Skeletonema
+aec98c7b34f5d327b1b939360a3cb7b3,0,0,0,0,0,0,0,2,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae
+736186bee4e089db8bdc6741d21671c7,0,0,0,0,0,0,0,0,54,8,30,12,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+028a820ea8e2531ccd2a0530bebf28b1,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium; s__Zoothamnium_florens
+0c00fe64e08181095a4685a7f30da6fe,30,5,0,0,0,0,0,51,0,87,64,3,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+a4bdbf5be60d53c7d72735636106dcbc,71,8,0,0,0,0,0,175,0,268,115,11,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+fa6f7bdd3ab979e7b7fe169fde060677,0,0,0,0,0,1,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Spirotrichea; f__Spirotrichea; g__Spirotrichea; s__uncultured_alveolate
+1a5bbc6d1fa1dcb577d68ed83f317e44,0,0,0,11,0,0,3,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_Duboscquella
+81c044d218ea15c531c876d5ee0fdf82,0,0,0,0,8,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniphycidae; f__Thoracosphaeraceae; g__Scrippsiella; s__uncultured_eukaryote
+28040fec0b6e4e26b2dd7f49fce8fc82,0,0,52,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_eukaryote
+3d3d1c4fdbeb308f709e4d457fb62b87,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota
+3e276846ddb6da6293a5368fd6a2d62e,0,0,0,0,1,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+91f0451301bad44e53867ef89ab7e291,0,5,0,0,0,0,0,0,0,0,4,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__Aplanochytrium; s__Labyrinthuloides_minuta
+fa146782b9e08ec00842df29db30a105,0,0,0,15,13,0,8,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_marine
+333bf017d148ae9aaf0a13b35028acd1,0,0,1,4,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+d8d8fb1520fea5b1bfb14785682e0127,0,6,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Trebouxiophyceae; o__Chlorellales; f__Chlorellales
+aae7d8cfd81b07da61adda7495ba55d0,0,0,0,0,0,0,0,0,0,0,5,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+80a695454a4aeac30990b6de687dced9,0,4,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales; g__Monoraphidium; s__Monoraphidium_sp.
+44a8f56992ec7a1605443b373a8a3510,30,82,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Peronosporomycetes; c__Peronosporomycetes; o__Peronosporomycetes; f__Peronosporomycetes
+525d7c74555ae3e3f6767a74b5a939cd,0,0,0,0,3,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniphycidae; f__Thoracosphaeraceae; g__Scrippsiella; s__uncultured_eukaryote
+63306dc53158738e503aa3d0412fb597,0,0,0,5,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+d7a4f89c5f0904dad0a5d964ae04339f,0,0,0,0,0,0,19,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Cyclotella; s__Cyclotella_choctawhatcheeana
+875ee6db8fcdd5b9f838a0553d189e9f,0,0,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+a2c4a672c500f77fd6aa1c4d57ab08c5,2,0,0,0,0,0,12,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Kareniaceae; g__Karlodinium; s__uncultured_marine
+f50ec7c437ea05073c8fcd9b27b4687f,11,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorodendrophyceae; o__Chlorodendrophyceae; f__Chlorodendrophyceae; g__Chlorodendrophyceae; s__Tetraselmis_sp.
+016119bae19d1cca8495e0e8bfb51ddd,0,0,173,369,316,151,139,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+cab7f80b348d53acc604f2a5de1a8074,0,0,0,0,0,0,0,0,74,13,26,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+9c3d91b411c315dcd91e068a4250a77f,0,3,0,0,0,2,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_elegans
+4b922beea1aa7b9eefd0f0d4b54a546f,0,0,0,0,0,0,0,0,10,0,0,1,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Pseudovorticella; s__uncultured_eukaryote
+e0975d7aed707939e08bd7346445d17f,0,0,0,0,0,0,4,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+5d4b1b672792344f9ed14a93d91c4c57,0,2,0,0,0,0,0,0,0,0,21,43,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+ea0a241e45197163cd23e8a8bf716e33,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+b71ae8301a2faeda0c527f92635c780d,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota
+18b38d6bf93c61d87746d72491b2c849,0,0,0,0,14,1,17,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Cryomonadida; f__Protaspidae; g__Protaspis; s__uncultured_Rhizaria
+44b2d69d419f4cceb1550b3962b0e070,0,0,0,2,3,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales
+df9054f45f9f32c36397ac76d82b8440,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Incertae_Sedis; p__Incertae_Sedis; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Incertae_Sedis; s__Planomonas_micra
+da0624a379edb344eee2fe18f4a2256d,0,0,0,0,0,2,14,0,0,0,11,42,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae
+49f6667ee3dd7d76574eb64455df6611,0,0,0,0,0,0,0,0,0,0,0,4,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+3b70336b85d79426498c95c35f7b9721,10,0,0,0,0,0,0,6,0,25,9,10,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Paracineta; s__Paracineta_limbata
+489ac5a8df56e5b1f648164541fef591,0,0,0,0,0,0,0,0,0,0,2,0,d__Eukaryota
+f770154b1991e808a547e45ba0889e2f,0,0,0,0,0,0,0,0,28,0,14,6,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora
+6316a58a52e828252a46a65bdc6cbc4d,0,0,0,0,0,0,0,0,0,0,0,3,d__Eukaryota
+c7f1b69cf3eb4a601da112eccab28f7e,0,0,0,0,0,0,0,0,0,0,7,7,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Navicula
+ce6ff402ac346e159b0b07dd051be4fe,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Sphaeropleales; f__Sphaeropleales; g__Desmodesmus; s__Desmodesmus_sp.
+f5c17e8da5e06af29924a53bea3493ba,0,0,0,0,0,0,6,0,0,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Chlamydomonadales; f__Chlamydomonadales
+f14b8515afaf294ca15b632cbe126fc2,0,0,0,0,0,0,0,0,0,0,0,4,d__Eukaryota; k__Amoebozoa; p__Apusomonadidae; c__Apusomonadidae; o__Apusomonadidae; f__Apusomonadidae; g__Planomonas; s__Planomonas_micra
+a27e397150ee6640be8cb3495286747c,6,3,0,0,0,0,0,23,78,11,9,13,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Zoothamnium
+26c63b356a1fd1bfd1c905860575e160,0,0,3,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium; s__uncultured_alveolate
+027b3dc760c1ca86462e3482fb2bd881,0,0,0,3,3,0,17,6,3,0,17,84,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Arcocellulus; s__Arcocellulus_cornucervis
+933515a725ae20a3f1463a753335e4ff,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Codonosigidae; f__Codonosigidae; g__Monosiga
+eb3491f23343d1d5d997bc3fa61e17ba,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Ochrophyta; c__Eustigmatophyceae; o__Eustigmatales; f__Eustigmatales; g__phytoplankton; s__phytoplankton_environmental
+195dffbc63a066ea291bcf24cc44c963,0,0,1,17,7,23,10,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Thecofilosea; o__Ebriacea; f__Ebriacea; g__Ebria
+304e63682fc413d0aac4fddc76f6d06f,0,0,0,0,0,0,0,0,0,0,22,57,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Labyrinthulaceae; g__Labyrinthula; s__uncultured_eukaryote
+adbd55afd059c4f818b3d0ad328cea22,4,0,0,1,13,0,6,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Dinophysiales; f__Dinophysiales; g__Sinophysis
+52dce5fb5ae014f7bddcee5bbab083aa,0,0,8,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+ad3f9f082f5e6994137dd139f46f4e47,0,0,0,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira
+ebf5c9013e1b01b75bdc23aa7ad8be63,0,0,0,0,0,0,0,0,0,1,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Ephelota
+34aed557cfd62f3f556a5bdc65ea4d5b,0,0,0,0,0,0,0,3,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Peridiniales; f__Peridiniales; g__Amphidiniopsis; s__Dinophyceae_sp.
+efac9004afa62ffbe1dd0cb9458369fa,0,0,0,0,0,0,0,0,0,0,0,2,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Heterohartmannula; s__Heterohartmannula_fangi
+5cdd3b6761dc91d4c6a16a24fa6a8783,0,0,0,5,0,0,4,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira; s__uncultured_stramenopile
+0ea7c4588a43c97c6e79879906709006,0,0,0,2,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Skeletonema
+32dce22b21f512015c0d56cb33dfb4d9,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota
+bbba041ba1bd0e35cc1c9b66adc0555b,0,0,0,0,0,7,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Incertae_Sedis; g__Akashiwo; s__Akashiwo_sanguinea
+4bfc38abeeceb5efee0a6cc933d32eed,0,0,0,0,0,0,0,0,0,0,16,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoecidae; s__Salpingoeca_kvevrii
+92575d75e47881f39c01184f68ad858b,0,0,0,0,0,0,0,0,0,0,7,0,d__Eukaryota
+195e3c6140e0f4edf520265da199dad7,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Vampyrellidae; o__Vampyrellidae; f__Vampyrellidae; g__uncultured; s__uncultured_Eimeriidae
+f3686b33b06e75e52225f31e1aa0feef,0,20,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+4e30a817b921202885f5b2110ae70e3c,0,0,0,0,0,0,0,0,0,0,77,0,d__Eukaryota; k__Holozoa; p__Holozoa; c__Choanoflagellida; o__Craspedida; f__Salpingoecidae; g__Salpingoecidae; s__Salpingoeca_kvevrii
+b3acb65183f2ca53256e491f3ef9952c,0,0,0,0,0,14,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+f86d25cfd247e2b18326c8814b34fe55,0,0,0,0,0,0,0,0,0,11,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Ephelota
+d6a3c1764e99bd812b8c183686a30696,0,0,0,0,0,0,1,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+9d68c0359ca6013d2caeacf321e548f8,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa
+e467b5f86cd52b08a319d81b80a49ff2,0,0,19,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Incertae_Sedis; o__Incertae_Sedis; f__Incertae_Sedis; g__Haplozoon; s__uncultured_eukaryote
+018b3453d8f195930793fce36920bddb,0,0,1,1,0,0,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Novel_Clade_2; o__Novel_Clade_2; f__Novel_Clade_2; g__Novel_Clade_2
+84907143f3b710a721c92e1df72387e2,0,0,0,0,0,0,0,0,2,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora; s__Amphora_coffeiformis
+f02ad98ed79d6397f9ddce0b9243d69a,0,0,0,0,5,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+25fce5c72458ee3959a2a709bd9a516e,0,0,0,0,0,0,0,0,15,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Oligohymenophorea; g__Vaginicola; s__Vaginicola_sp.
+c356e72fbdaede0d121ec79978a27449,0,0,6,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae; f__Gymnodiniphycidae; g__Gyrodinium
+7f3c77781c032d07cabd3dce7835d2b6,0,0,0,0,0,0,0,9,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+52b71125bce6721c5c24cb72f461e27d,0,0,0,0,0,0,0,0,2,0,0,15,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Navicula
+f3a9f047c1a5e8194304e6cd518b34cf,6,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_sp.
+19686d7f11278a36ee0790f143db6baa,0,0,0,0,12,3,5,0,0,0,0,1,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Trebouxiophyceae
+2084f0a53ebb4cb826ace3d4d40de973,0,0,0,0,0,0,4,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Coscinodiscophytina; f__Coscinodiscophytina; g__Actinocyclus
+2def4e42cfea18b193cf7c8994e81acf,0,0,0,0,0,5,0,0,0,0,0,0,d__Eukaryota; k__Rhizaria; p__Cercozoa; c__Imbricatea; o__Marimonadida; f__Marimonadida; g__Pseudopirsonia
+e712a2267d796f3d858f1e2d81eb2d4f,4,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__uncultured; s__Thraustochytriidae_sp.
+51bfc53384fe36c35848400ca3402613,0,0,15,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gymnodiniphycidae
+e91f9393b05ffb6b7d46a7f54fe3c3f8,0,0,0,0,0,0,0,0,1,0,0,0,d__Eukaryota; k__Amoebozoa; p__Amoebozoa; c__Tubulinea; o__Leptomyxida; f__Leptomyxida
+f53fc846840a3a47d1f49122ab8fcc9f,0,0,0,4,0,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Chaetoceros; s__Chaetoceros_sp.
+d3b99ec4067ae2932db0fa935b8228ba,0,0,0,0,0,0,0,0,47,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__Acineta_tuberosa
+e73bd2d710c6b5bba454aa5532a49ed8,0,0,0,0,0,0,0,0,3,0,0,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta
+9ece0a42a1ca86bd3104899900c42592,0,0,0,0,3,0,0,0,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Labyrinthulomycetes; c__Labyrinthulomycetes; o__Labyrinthulomycetes; f__Thraustochytriaceae; g__uncultured; s__uncultured_labyrinthulid
+ae8580938893044541e36c4d4911a8c7,1,0,0,0,0,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Acineta; s__uncultured_eukaryote
+fecbd357edde4b4ba2cacbb216c094cf,0,0,0,0,0,0,0,0,0,0,4,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Coscinodiscophytina; o__Fragilariales; f__Fragilariales; g__Licmophora; s__uncultured_marine
+e4d04af8f9862d765a498e1652989c0c,0,0,0,0,0,0,2,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae; o__Gonyaulacales; f__Gonyaulacales; g__Pyrophacus; s__Pyrophacus_steinii
+c21faf9908064859795d79cf404c3052,0,0,0,2,0,3,3,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Dinoflagellata; c__Dinophyceae
+106f8234060ed2403e22bc46cc86cbf5,0,0,0,0,3,0,0,0,0,0,0,0,d__Eukaryota; k__Alveolata; p__Protalveolata; c__Syndiniales; o__Syndiniales; f__Syndiniales_Group_I; g__Syndiniales_Group_I; s__uncultured_marine
+bd1c884481863f07fa04c7cab99c8421,0,0,0,0,0,0,0,0,0,0,1,0,d__Eukaryota; k__Chloroplastida; p__Chlorophyta; c__Chlorophyceae; o__Chlamydomonadales; f__Chlamydomonadales; g__Chlamydomonas; s__Chlamydomonas_raudensis
+cdf21aaf60585a6344ded34da1a27486,0,116,0,0,0,0,0,0,0,11,0,17,d__Eukaryota; k__Alveolata; p__Ciliophora; c__Intramacronucleata; o__Conthreep; f__Phyllopharyngea; g__Suctoria; s__Pyropia_sp.
+88a04a21d7adfc862d8f0875ed9b57e5,0,0,0,0,0,0,0,7,0,0,0,0,d__Eukaryota; k__Stramenopiles; p__Diatomea; c__Bacillariophyceae; o__Bacillariophyceae; f__Bacillariophyceae; g__Amphora

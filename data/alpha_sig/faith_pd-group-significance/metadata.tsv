@@ -1,0 +1,14 @@
+id	station	environment	cluster	environment1	faith_pd
+#q2:types	categorical	categorical	categorical	categorical	numeric
+DH16	MB1	SW	IB	Free-living	7.13863062154029
+DH2	MB2	PP	IB	Particle-attached	5.55391753598521
+DH3	MB2	PE	IB	Particle-attached	6.93211415406292
+DH15	MB2	SW	IB	Free-living	7.56537475670107
+DH6	MB3	PP	IB	Particle-attached	3.71612126028322
+DH14	MB3	SW	IB	Free-living	10.3511366204359
+DH8	MB4	PE	OB	Particle-attached	9.09314695452092
+DH9	MB4	PE	OB	Particle-attached	9.57900905740008
+DH13	MB4	SW	OB	Free-living	6.06239611493385
+DH10	MB5	PP	OB	Particle-attached	6.9137605656121
+DH11	MB5	PE	OB	Particle-attached	5.45763685770561
+DH12	MB5	SW	OB	Free-living	5.03647672281384

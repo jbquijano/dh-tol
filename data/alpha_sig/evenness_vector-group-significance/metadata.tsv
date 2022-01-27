@@ -1,0 +1,14 @@
+id	station	environment	cluster	environment1	pielou_evenness
+#q2:types	categorical	categorical	categorical	categorical	numeric
+DH16	MB1	SW	IB	Free-living	0.719259627551504
+DH2	MB2	PP	IB	Particle-attached	0.609338987347436
+DH3	MB2	PE	IB	Particle-attached	0.668189121320275
+DH15	MB2	SW	IB	Free-living	0.755422091668014
+DH6	MB3	PP	IB	Particle-attached	0.599444583426417
+DH14	MB3	SW	IB	Free-living	0.714954564725889
+DH8	MB4	PE	OB	Particle-attached	0.800071844049895
+DH9	MB4	PE	OB	Particle-attached	0.799984487091207
+DH13	MB4	SW	OB	Free-living	0.595992816784962
+DH10	MB5	PP	OB	Particle-attached	0.692522487895018
+DH11	MB5	PE	OB	Particle-attached	0.671884392553995
+DH12	MB5	SW	OB	Free-living	0.496107521809405

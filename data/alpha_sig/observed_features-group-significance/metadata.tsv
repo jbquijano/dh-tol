@@ -1,0 +1,14 @@
+id	station	environment	cluster	environment1	observed_features
+#q2:types	categorical	categorical	categorical	categorical	numeric
+DH16	MB1	SW	IB	Free-living	67
+DH2	MB2	PP	IB	Particle-attached	25
+DH3	MB2	PE	IB	Particle-attached	64
+DH15	MB2	SW	IB	Free-living	58
+DH6	MB3	PP	IB	Particle-attached	31
+DH14	MB3	SW	IB	Free-living	54
+DH8	MB4	PE	OB	Particle-attached	50
+DH9	MB4	PE	OB	Particle-attached	75
+DH13	MB4	SW	OB	Free-living	59
+DH10	MB5	PP	OB	Particle-attached	46
+DH11	MB5	PE	OB	Particle-attached	37
+DH12	MB5	SW	OB	Free-living	34
